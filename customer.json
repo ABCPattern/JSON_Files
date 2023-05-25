@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Anushka",
+    "order_count": 96,
+    "address": "New loop drive, UK"
+  },
+  {
+    "id": 2,
+    "name": "Jhon",
+    "order_count": 90,
+    "address": "Prince drive, US"
+  },
+  {
+    "id": 3,
+    "name": "Kate",
+    "order_count": 80,
+    "address": "drive train, US"
+  },
+  {
+    "id": 6,
+    "name": "Jhon",
+    "order_count": 90,
+    "address": "Prince drive, US",
+    "email": "anushka.chavan@pattern.com"
+  },
+  {
+    "id": 4,
+    "name": "Jhon",
+    "order_count": 90,
+    "address": "Prince drive, US",
+    "email": "anushka.chavan@pattern.com"
+  }
+]
